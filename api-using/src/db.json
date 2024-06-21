@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "username": "uğur",
+      "password": "uu",
+      "postId": "7"
+    },
+    {
+      "username": "Nuray",
+      "password": "123455",
+      "id": "2",
+      "postId": "8"
+    },
+    {
+      "username": "Nuray",
+      "password": "123455",
+      "id": "3",
+      "postId": "9"
+    },
+    {
+      "username": "Nuray",
+      "password": "123455",
+      "id": "4",
+      "postId": "10"
+    }
+  ]
+}
